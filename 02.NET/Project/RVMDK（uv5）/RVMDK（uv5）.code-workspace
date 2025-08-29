@@ -1,0 +1,16 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "key.h": "c",
+            "stm32f10x.h": "c",
+            "relay.h": "c",
+            "adc.h": "c"
+        }
+    },
+    "extensions": {}
+}
